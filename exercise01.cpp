@@ -14,4 +14,5 @@ int main() {
           setw(15)<<  names[r]<<
           setw(10)<< marks[r] << endl;
    }
+  
 }
